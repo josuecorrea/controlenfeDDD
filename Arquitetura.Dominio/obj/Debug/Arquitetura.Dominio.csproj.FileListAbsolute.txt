@@ -1,0 +1,10 @@
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\Arquitetura.Dominio.dll.config
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\Arquitetura.Dominio.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\Arquitetura.Dominio.pdb
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\EntityFramework.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\EntityFramework.xml
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\obj\Debug\Arquitetura.Dominio.csprojResolveAssemblyReference.cache
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\obj\Debug\Arquitetura.Dominio.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Dominio\obj\Debug\Arquitetura.Dominio.pdb

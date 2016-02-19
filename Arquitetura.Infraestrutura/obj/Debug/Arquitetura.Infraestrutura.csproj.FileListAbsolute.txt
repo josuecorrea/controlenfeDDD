@@ -1,0 +1,17 @@
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\AutoMapper.Net4.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.Infraestrutura.dll.config
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.Infraestrutura.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.Infraestrutura.pdb
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.Dominio.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.DTO.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\AutoMapper.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.Dominio.pdb
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\Arquitetura.DTO.pdb
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\AutoMapper.xml
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\obj\Debug\Arquitetura.Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\obj\Debug\Arquitetura.Infraestrutura.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.Infraestrutura\obj\Debug\Arquitetura.Infraestrutura.pdb

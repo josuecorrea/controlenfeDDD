@@ -1,0 +1,7 @@
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\bin\Debug\Arquitetura.DTO.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\bin\Debug\Arquitetura.DTO.pdb
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\bin\Debug\Arquitetura.Dominio.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\bin\Debug\Arquitetura.Dominio.pdb
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\obj\Debug\Arquitetura.DTO.csprojResolveAssemblyReference.cache
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\obj\Debug\Arquitetura.DTO.dll
+C:\Projetos\ControleNfe\Sisgenet\Arquitetura.DTO\obj\Debug\Arquitetura.DTO.pdb
